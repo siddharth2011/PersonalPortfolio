@@ -24,7 +24,7 @@ const Contact = () => {
             >
               <h1 className="text-5xl font-bold sm:text-3xl">Open to Full Time Opportunities</h1>
               <h3 className="text-xl sm:text-lg">
-                Software Developer, SOftware Engineer, Data Analyst
+                Software Developer, Software Engineer, Data Analyst
               </h3>
             </div>
           </div>
