@@ -17,7 +17,7 @@ const Resume = () => {
       </div>
       {/* card*/}
       <div className="card-wrapper w-[90%] sm:w-full mt-5 flex md:flex-col sm:gap-5 mx-auto ">
-      <div className="card-wrapper w-[90%] sm:w-full mt-5 flex md:flex-col sm:gap-5 mx-auto ">
+      
         
         <div className="left flex-1 flex items-center justify-center">
           <fieldset
@@ -76,7 +76,7 @@ const Resume = () => {
               </div>
             
           </fieldset>
-          </div>
+          
         </div>
         <div className="right flex-1 flex items-center justify-center">
           <fieldset
