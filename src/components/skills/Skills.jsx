@@ -2,7 +2,7 @@ import React from "react";
 import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
 
-import { TbBrandPython, IoLogoCss3 } from "react-icons/io";
+import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
 
 import {
@@ -42,9 +42,13 @@ const Skills = ({ darkMode }) => {
               className="progress flex items-center h-[100%] justify-end md:justify-center"
             >
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
-                <ProgressBar logo={<TbBrandPython />} name={"Python"} value={95} />
+                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={95} />
                 <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={88} />
-                <ProgressBar logo={<SiJavascript />} name={"Javascript"} value={80}/>
+                <ProgressBar
+                  logo={<SiJavascript />}
+                  name={"Javascript"}
+                  value={80}
+                />
                 <ProgressBar logo={<FaReact />} name={"React Js"} value={80} />
                 <ProgressBar
                   logo={<SiTailwindcss />}
