@@ -49,10 +49,10 @@ const Skills = ({ darkMode }) => {
               skill={"Python"}
             />
             <SkillBox
-              logo={<SiMongodb />}
+              logo={<GrCode />}
               black={"white"}
               white={"black"}
-              skill={"MongoDB"}
+              skill={"C++"}
             />
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
