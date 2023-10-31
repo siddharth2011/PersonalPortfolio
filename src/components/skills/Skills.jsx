@@ -36,7 +36,7 @@ const Skills = ({ darkMode }) => {
             >
               Here are my skills.
             </p>
-            {/* left box */}
+            {/* left box
             <div
               // data-aos="zoom-in"
               // className="progress flex items-center h-[100%] justify-end md:justify-center"
@@ -57,11 +57,11 @@ const Skills = ({ darkMode }) => {
                 {/* /> */}
               {/* </div> */}
             </div>
-          </div>
+          {/* </div>  */}
           {/* right box */}
           {/* right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full */}
           <div className="middle relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
-  <div className="first2 flex flex-col gap-10 items-center justify-center">
+            <div className="first2 flex flex-col gap-10">
               <SkillBox
                 logo={<IoLogoNodejs />}
                 black={"white"}
