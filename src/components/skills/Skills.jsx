@@ -50,8 +50,8 @@ const Skills = ({ darkMode }) => {
             />
             <SkillBox
               logo={<GrCode />}
-              black={"white"}
-              white={"black"}
+              black={"black"}
+              white={"white"}
               skill={"C++"}
             />
           </div>
