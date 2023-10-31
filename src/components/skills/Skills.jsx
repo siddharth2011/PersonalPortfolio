@@ -41,38 +41,55 @@ const Skills = ({ darkMode }) => {
           
           {/* right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full */}
           <div className="middle relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
-  <div className="first2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
-    <SkillBox
-      logo={<IoLogoNodejs />}
-      black={"white"}
-      white={"black"}
-      skill={"Node Js"}
-    />
-    <SkillBox
-      logo={<SiMongodb />}
-      black={"white"}
-      white={"black"}
-      skill={"MongoDB"}
-    />
-  </div>
-  <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
-    <SkillBox
-      logo={<SiExpress />}
-      black={"black"}
-      white={"white"}
-      skill={"Express Js"}
-    />
-    <SkillBox
-      className=""
-      logo={
-        <GrCode />
-      }
-      black={"black"}
-      white={"white"}
-      skill={"C++"}
-    />
-  </div>
-</div>
+          <div className="first2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<IoLogoNodejs />}
+              black={"white"}
+              white={"black"}
+              skill={"Node Js"}
+            />
+            <SkillBox
+              logo={<SiMongodb />}
+              black={"white"}
+              white={"black"}
+              skill={"MongoDB"}
+            />
+          </div>
+          <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<SiExpress />}
+              black={"black"}
+              white={"white"}
+              skill={"Express Js"}
+            />
+            <SkillBox
+              className=""
+              logo={
+                <GrCode />
+              }
+              black={"black"}
+              white={"white"}
+              skill={"C++"}
+            />
+          </div>
+          <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<SiExpress />}
+              black={"black"}
+              white={"white"}
+              skill={"Express Js"}
+            />
+            <SkillBox
+              className=""
+              logo={
+                <GrCode />
+              }
+              black={"black"}
+              white={"white"}
+              skill={"C++"}
+            />
+          </div>
+        </div>
 
         </div>
 
