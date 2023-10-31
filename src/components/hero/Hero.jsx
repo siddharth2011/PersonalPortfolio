@@ -104,8 +104,7 @@ const Hero = () => {
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
-              className=" h-[70%] w-[70%] md:h-[75%] md:w-[75%]
-              "
+              className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               // src={mine}
               alt="mine"
@@ -118,7 +117,7 @@ const Hero = () => {
                   {/* alt="" */}
                 {/* /> */}
                 <FaPlay
-                  // className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
+                  className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
                 />
               </div>
             </div>
