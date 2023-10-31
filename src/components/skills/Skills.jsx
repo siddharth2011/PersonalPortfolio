@@ -42,7 +42,7 @@ const Skills = ({ darkMode }) => {
               className="progress flex items-center h-[100%] justify-end md:justify-center"
             >
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
-                <ProgressBar logo={<SiPython />} name={"Python"} value={95} />
+                {/* <ProgressBar logo={<SiPython />} name={"Python"} value={95} />
                 <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={88} />
                 <ProgressBar
                   logo={<SiJavascript />}
@@ -53,8 +53,8 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
-                  value={80}
-                />
+                  value={80} */}
+                {/* /> */}
               </div>
             </div>
           </div>
