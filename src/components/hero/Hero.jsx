@@ -6,7 +6,7 @@ import {
 } from "react-icons/ai";
 import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
-import { FaPlay } from "react-icons/fa";
+// import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume.pdf";
 
@@ -116,9 +116,9 @@ const Hero = () => {
                   {/* // src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107" */}
                   {/* alt="" */}
                 {/* /> */}
-                <FaPlay
+                {/* <FaPlay */}
                   // className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
-                />
+                {/* /> */}
               </div>
             </div>
           </div>
