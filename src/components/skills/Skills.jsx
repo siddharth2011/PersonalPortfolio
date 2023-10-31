@@ -38,10 +38,10 @@ const Skills = ({ darkMode }) => {
             </p>
             {/* left box */}
             <div
-              data-aos="zoom-in"
-              className="progress flex items-center h-[100%] justify-end md:justify-center"
+              // data-aos="zoom-in"
+              // className="progress flex items-center h-[100%] justify-end md:justify-center"
             >
-              <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
+              {/* <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]"> */}
                 {/* <ProgressBar logo={<SiPython />} name={"Python"} value={95} />
                 <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={88} />
                 <ProgressBar
@@ -55,12 +55,12 @@ const Skills = ({ darkMode }) => {
                   name={"Tailwind CSS"}
                   value={80} */}
                 {/* /> */}
-              </div>
+              {/* </div> */}
             </div>
           </div>
           {/* right box */}
           {/* right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full */}
-          <div className="flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
+          <div className="middle relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
               <SkillBox
                 logo={<IoLogoNodejs />}
