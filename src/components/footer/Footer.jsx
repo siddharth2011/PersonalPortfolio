@@ -5,7 +5,7 @@ import { RiInstagramFill } from "react-icons/ri";
 
 const Footer = () => {
   return (
-    <div id="works" className={` bg-gradient-to-r from-green-200 to-blue-200 h-20 flex flex-col gap-8 items-center justify-between p-10 sm:p-7`}>
+    <div id="works" className={` bg-gradient-to-r from-green-200 to-blue-200 h-20 `}>
   <div className="container mx-auto pt-10 sm:pt-7">
     <div className="flex flex-col-reverse sm:flex-col-reverse">
       <div className="left mt-4 md:mt-0 flex-1 flex flex-col items-center gap-8 w-full sm:w-1/2 md:w-full md:py-2 sm:py-0">
