@@ -61,7 +61,7 @@ const Skills = ({ darkMode }) => {
           {/* right box */}
           {/* right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full */}
           <div className="middle relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
-            <div className="first2 flex flex-col gap-10">
+  <div className="first2 flex flex-col gap-10 items-center justify-center">
               <SkillBox
                 logo={<IoLogoNodejs />}
                 black={"white"}
