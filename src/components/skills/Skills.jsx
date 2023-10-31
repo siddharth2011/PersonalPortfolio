@@ -29,14 +29,14 @@ const Skills = ({ darkMode }) => {
         </div>
         {/* content*/}
         <div className="flex md:flex-col ">
-          <div className="left flex-1 w-full">
+          {/* <div className="left flex-1 w-full">
             <p
               data-aos="fade-up"
               className=" text-gray-700 font-medium w-[100%]"
             >
               Here are my skills.
             </p>           
-            </div>
+            </div> */}
           
           
           {/* right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full */}
