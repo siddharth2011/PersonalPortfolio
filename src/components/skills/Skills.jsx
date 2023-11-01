@@ -3,6 +3,7 @@ import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
+import {DiDjango} from  "react-icons/Di";
 
 import {SiPython} from "react-icons/si";
 import {
@@ -57,10 +58,10 @@ const Skills = ({ darkMode }) => {
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
-              logo={<SiExpress />}
-              black={"black"}
-              white={"white"}
-              skill={"Express Js"}
+              logo={<DiDjango />}
+              black={"white"}
+              white={"black"}
+              skill={"Django"}
             />
             <SkillBox
               className=""
