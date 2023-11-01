@@ -58,10 +58,10 @@ const Skills = ({ darkMode }) => {
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
-              logo={<DiDjango />}
-              black={"white"}
-              white={"black"}
-              skill={"Django"}
+              logo={<SiExpress />}
+              black={"black"}
+              white={"white"}
+              skill={"Express Js"}
             />
             <SkillBox
               className=""
