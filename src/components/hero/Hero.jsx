@@ -20,12 +20,14 @@ const Hero = () => {
           <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
+          <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <img
+              class="max-w-[50%]" 
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               alt="mine"
-            />
-          </div>
-            
+          />
+      </div>
+                  
            
                 
               </div>
