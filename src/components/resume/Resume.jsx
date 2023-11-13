@@ -108,23 +108,52 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                Masters of Science - Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                Arizona State University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                January 2022 - December 2023
                 </span>
-                <p className=" text-[.9rem] text-justify text-gray-500">
+                
+                {/* <p className=" text-[.9rem] text-justify text-gray-500">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Excepturi nihil aut quae obcaecati alias placeat totam aperiam
                   pariatur quam? Accusantium minima aperiam error obcaecati
                   autem doloribus deserunt qui, laborum incidunt amet, numquam
                   eos cum tempora. Debitis, esse quae corporis deserunt officia
                   quos in a, quaerat vero odio vitae.
-                </p>
+                </p> */}
               </div>
+
+                
+
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                Bachelors of Technology - Computer Science
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                SRM Institute of Science and Technology
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                June 2017 - May 2021
+                </span>
+                
+                {/* <p className=" text-[.9rem] text-justify text-gray-500">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
+                  pariatur quam? Accusantium minima aperiam error obcaecati
+                  autem doloribus deserunt qui, laborum incidunt amet, numquam
+                  eos cum tempora. Debitis, esse quae corporis deserunt officia
+                  quos in a, quaerat vero odio vitae.
+                </p> */}
+              </div>
+
+
+
+
+
             </div>
           </fieldset>
         </div>
