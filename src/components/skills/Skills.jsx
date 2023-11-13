@@ -3,8 +3,7 @@ import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
-import BiJava from '@fortawesome/react-fontawesome';
-import { faJava } from '@fortawesome/free-brands-svg-icons';
+
 
 import {SiPython} from "react-icons/si";
 import {
@@ -71,7 +70,58 @@ const Skills = ({ darkMode }) => {
               }
               black={"black"}
               white={"white"}
-              skill={"C++"}
+              skill={"SQL"}
+            />
+          </div>
+          <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"JavaScript"}
+            />
+            <SkillBox
+              className=""
+              logo={
+                <GrCode />
+              }
+              black={"black"}
+              white={"white"}
+              skill={"HTML"}
+            />
+          </div>
+          <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"CSS"}
+            />
+            <SkillBox
+              className=""
+              logo={
+                <GrCode />
+              }
+              black={"black"}
+              white={"white"}
+              skill={"Django"}
+            />
+          </div>
+          <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
+            <SkillBox
+              logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"System Design"}
+            />
+            <SkillBox
+              className=""
+              logo={
+                <GrCode />
+              }
+              black={"black"}
+              white={"white"}
+              skill={"Linux"}
             />
           </div>
           
