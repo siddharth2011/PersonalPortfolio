@@ -67,6 +67,23 @@ const Resume = () => {
                 company using Microsoft Power Apps and Java. I was specifically involved in
                 developing and integrating the order processing module.
                 </p>
+
+
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                Intern - Software and Machine Learning Developer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Indian Institute of Technology-Kanpur (IIT Kanpur)
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                June 2019 -  July 2019
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Spearheaded the development of an autonomous road sign detection model using
+                YOLO-v3, leveraging TensorFlow. Successfully deployed the model on Raspberry
+                Pi, demonstrating strong technical and project management skills.
+                </p>
+
               </div>
               </div>
             
