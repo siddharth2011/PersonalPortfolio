@@ -3,8 +3,9 @@ import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
+import BiJava from '@fortawesome/react-fontawesome';
+import { faJava } from '@fortawesome/free-brands-svg-icons';
 
-import {BiLogoJava} from "react-icons/bi";
 import {SiPython} from "react-icons/si";
 import {
   SiJavascript,
@@ -58,7 +59,7 @@ const Skills = ({ darkMode }) => {
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
-              logo={<BiLogoJava />}
+              logo={<faJava />}
               black={"black"}
               white={"white"}
               skill={"Java"}
