@@ -4,7 +4,7 @@ import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
-import BiLogoJava from "react-icons/bi";
+import {BiLogoJava} from "react-icons/bi";
 import {SiPython} from "react-icons/si";
 import {
   SiJavascript,
