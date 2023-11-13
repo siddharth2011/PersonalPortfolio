@@ -21,11 +21,13 @@ const Hero = () => {
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
-              className=" h-[50%]  w-full object-cover md:h-[55%] md:m-auto sm:m-0"
+            <div class="pt-4 className="h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0">
+              // className=" h-[50%]  w-full object-cover md:h-[55%] md:m-auto sm:m-0"
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               // src={mine}
               alt="mine"
-            />
+              </div>
+            
            
                 
               </div>
