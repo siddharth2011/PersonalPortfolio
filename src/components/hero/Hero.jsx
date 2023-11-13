@@ -14,20 +14,20 @@ import resumePDF from "../../assets/Resume.pdf";
 const Hero = () => {
   return (
     <div id="home" className={` bg-gradient-to-r from-green-200 to-blue-200 `}>
+      <img
+              // class="max-w-[50%]" 
+              src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
+              alt="mine"
+          />
       <div className=" container mx-auto pt-5 h-[750px] md:h-[100vh] md:flex-col-reverse sm:h-[780px]  flex sm:flex-col-reverse sm:pt-0 ">
         <div className=" left mt-4 md:mt-0 flex-1 flex flex-col justify-center gap-5 w-1/2 md:w-full md:py-2 sm:py-0">
           <div className="info w-fit flex flex-col items-start justify-center gap-3 sm:gap-2">
           <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
-          <img
-              // class="max-w-[50%]" 
-              src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
-              alt="mine"
-          />
-      </div>
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           
+      </div>
                   
            
                 
