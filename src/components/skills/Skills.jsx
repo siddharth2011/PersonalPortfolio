@@ -3,7 +3,7 @@ import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
-import {DiDjango} from  "react-icons/Di";
+
 
 import {SiPython} from "react-icons/si";
 import {
