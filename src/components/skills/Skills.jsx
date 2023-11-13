@@ -4,7 +4,7 @@ import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
-
+import BiLogoJava from "react-icons/bi";
 import {SiPython} from "react-icons/si";
 import {
   SiJavascript,
@@ -58,10 +58,10 @@ const Skills = ({ darkMode }) => {
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
-              logo={<SiExpress />}
+              logo={<BiLogoJava />}
               black={"black"}
               white={"white"}
-              skill={"Express Js"}
+              skill={"Java"}
             />
             <SkillBox
               className=""
