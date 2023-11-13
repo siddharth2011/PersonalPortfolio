@@ -115,7 +115,7 @@ const Hero = () => {
             </ul>
           </div>
         </div>
-        <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
+        {/* <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
@@ -127,7 +127,7 @@ const Hero = () => {
            
                 
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       // </div>
