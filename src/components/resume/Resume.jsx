@@ -37,40 +37,35 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                Volunteer Research Assistant
+                Graduate Teaching Assistant - Software Validation Verification and Testing
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                Arizona State University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                August 2022 - July 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Assisting Dr. Tuzmen in teaching, grading the assignments and preparing 
+                and revamping teaching materials for a class of 125+ students.Conducted
+                weekly office hours to give guidance to grad students on various topics 
+                like Specification based testing, structural based testing.
                 </p>
 
 
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                Volunteer Research Assistant
+                Associate Software Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                Tata Consultancy Services (TCS)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                August 2021 - November 2021
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Was involved in developing scalable backend system for a UK-based e-commerce
+                company using Microsoft Power Apps and Java. I was specifically involved in
+                developing and integrating the order processing module.
                 </p>
               </div>
               </div>
