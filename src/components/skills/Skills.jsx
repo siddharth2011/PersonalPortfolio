@@ -68,16 +68,16 @@ const Skills = ({ darkMode }) => {
               logo={
                 <GrCode />
               }
-              black={"black"}
-              white={"white"}
+              black={"white"}
+              white={"black"}
               skill={"SQL"}
             />
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
               logo={<GrCode />}
-              black={"black"}
-              white={"white"}
+              black={"white"}
+              white={"black"}
               skill={"JavaScript"}
             />
             <SkillBox
@@ -102,16 +102,16 @@ const Skills = ({ darkMode }) => {
               logo={
                 <GrCode />
               }
-              black={"black"}
-              white={"white"}
+              black={"white"}
+              white={"black"}
               skill={"Django"}
             />
           </div>
           <div className="last2 flex flex-col gap-10 items-center justify-center"> {/* Added 'items-center' and 'justify-center' here */}
             <SkillBox
               logo={<GrCode />}
-              black={"black"}
-              white={"white"}
+              black={"white"}
+              white={"black"}
               skill={"System Design"}
             />
             <SkillBox
