@@ -67,6 +67,13 @@ const Hero = () => {
             </p>
 
             </div>
+            <div>
+              <h3>Skills</h3>
+              <li>Python</li>
+              <li>Python</li>
+              <li>Python</li>
+              <li>Python</li>
+            </div>
             
            
           </div>
