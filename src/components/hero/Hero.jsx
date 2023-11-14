@@ -29,45 +29,13 @@ const Hero = () => {
               alt="mine"
             />
       </div>
-      <div>
-
-            <h2
-              data-aos="fade-up"
-              className=" text-3xl font-bold sm:text-[2rem]"
-            >
-              Hello, I'm Siddharth Goyal
-            </h2>
-            <br />
-            <TypeAnimation
-              data-aos="fade-up"
-              sequence={[
-                "Software Developer",
-                2000,
-                "Software Engineer",
-                2000,
-                "",
-              ]}
-              speed={30}
-              wrapper="h2"
-              repeat={Infinity}
-              className="text-yellow-500 text-4xl font-bold sm:text-3xl"
-            />
-
-              <p
-              // data-aos="fade-up"
-              className=" text-2xl font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
-            >
-              Graduate Student pursuing Masters in Computer Science from Arizona State University
-            </p>
-
-            </div>
                   
            
                 
               </div>
             </div>
             
-            {/* <div>
+            <div>
 
             <h2
               data-aos="fade-up"
@@ -98,7 +66,7 @@ const Hero = () => {
               Graduate Student pursuing Masters in Computer Science from Arizona State University
             </p>
 
-            </div> */}
+            </div>
             
            
           </div>
