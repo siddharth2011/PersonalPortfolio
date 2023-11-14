@@ -33,7 +33,8 @@ const Hero = () => {
               </div>
             </div>
             
-            
+            <div>
+
             <h2
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
@@ -55,6 +56,9 @@ const Hero = () => {
               repeat={Infinity}
               className="text-yellow-500 text-4xl font-bold sm:text-3xl"
             />
+
+            </div>
+            
             <p
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
