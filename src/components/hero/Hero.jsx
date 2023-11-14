@@ -22,10 +22,12 @@ const Hero = () => {
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <img
-              // class="max-w-[50%]" 
+              data-aos="fade-up"
+              className="h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0"
+              style={{ maxWidth: '100%', height: 'auto' }}
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               alt="mine"
-          />
+            />
       </div>
                   
            
