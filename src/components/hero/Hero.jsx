@@ -24,7 +24,7 @@ const Hero = () => {
           <img
               data-aos="fade-up"
               className="h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0"
-              style={{ maxWidth: '25%', height: '25%' }}
+              style={{ maxWidth: '50%', height: '50%' }}
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               alt="mine"
             />
@@ -39,7 +39,7 @@ const Hero = () => {
 
             <h2
               data-aos="fade-up"
-              className=" text-5xl font-bold sm:text-[2rem]"
+              className=" text-3xl font-bold sm:text-[2rem]"
             >
               Hello, I'm Siddharth Goyal
             </h2>
@@ -61,7 +61,7 @@ const Hero = () => {
 
               <p
               // data-aos="fade-up"
-              className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
+              className=" text-[0.9rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
               Graduate Student pursuing Masters in Computer Science from Arizona State University
             </p>
