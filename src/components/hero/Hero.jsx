@@ -69,6 +69,8 @@ const Hero = () => {
 
             </div>
             <div>
+            <div className="middle relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
+          <div className="first2 flex flex-col gap-10 items-center justify-center">
             <SkillBox
               // logo={<SiPython />}
               
@@ -84,6 +86,7 @@ const Hero = () => {
               skill={"C++"}
               size = {"small"}
             />
+            </div>
             
             </div>
             
