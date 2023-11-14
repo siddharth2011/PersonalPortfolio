@@ -1,4 +1,5 @@
 import React from "react";
+import SkillBox from "../../chip/SkillBox";
 import {
   AiFillTwitterCircle,
   AiFillGithub,
@@ -68,11 +69,18 @@ const Hero = () => {
 
             </div>
             <div>
-              <h3>Skills</h3>
-              <li>Python</li>
-              <li>Python</li>
-              <li>Python</li>
-              <li>Python</li>
+            <SkillBox
+              // logo={<SiPython />}
+              black={"white"}
+              white={"black"}
+              skill={"Python"}
+            />
+            <SkillBox
+              // logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"C++"}
+            />
             </div>
             
            
