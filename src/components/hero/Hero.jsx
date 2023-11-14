@@ -86,6 +86,36 @@ const Hero = () => {
               skill={"C++"}
               size = {"small"}
             />
+            <SkillBox
+              // logo={<SiPython />}
+              
+              black={"white"}
+              white={"black"}
+              skill={"Python"}
+              size = {"small"}
+            />
+            <SkillBox
+              // logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"C++"}
+              size = {"small"}
+            />
+            <SkillBox
+              // logo={<SiPython />}
+              
+              black={"white"}
+              white={"black"}
+              skill={"Python"}
+              size = {"small"}
+            />
+            <SkillBox
+              // logo={<GrCode />}
+              black={"black"}
+              white={"white"}
+              skill={"C++"}
+              size = {"small"}
+            />
             </div>
             </div>
             </div>
