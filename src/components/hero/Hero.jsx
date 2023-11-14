@@ -71,7 +71,7 @@ const Hero = () => {
             <div>
             <SkillBox
               // logo={<SiPython />}
-              size = "small"
+              size = {"small"}
               black={"white"}
               white={"black"}
               skill={"Python"}
