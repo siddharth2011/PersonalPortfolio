@@ -23,19 +23,13 @@ const Hero = () => {
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <img
               data-aos="fade-up"
-              className="h-[50%]  md:h-[55%] md:m-auto sm:m-0"
+              className="h-[50%] object-cover md:h-[55%] md:m-auto sm:m-0"
               style={{ maxWidth: '50%', height: '50%' }}
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               alt="mine"
             />
       </div>
-                  
-           
-                
-              </div>
-            </div>
-            
-            <div>
+      <div>
 
             <h2
               data-aos="fade-up"
@@ -67,6 +61,44 @@ const Hero = () => {
             </p>
 
             </div>
+                  
+           
+                
+              </div>
+            </div>
+            
+            {/* <div>
+
+            <h2
+              data-aos="fade-up"
+              className=" text-3xl font-bold sm:text-[2rem]"
+            >
+              Hello, I'm Siddharth Goyal
+            </h2>
+            <br />
+            <TypeAnimation
+              data-aos="fade-up"
+              sequence={[
+                "Software Developer",
+                2000,
+                "Software Engineer",
+                2000,
+                "",
+              ]}
+              speed={30}
+              wrapper="h2"
+              repeat={Infinity}
+              className="text-yellow-500 text-4xl font-bold sm:text-3xl"
+            />
+
+              <p
+              // data-aos="fade-up"
+              className=" text-2xl font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
+            >
+              Graduate Student pursuing Masters in Computer Science from Arizona State University
+            </p>
+
+            </div> */}
             
            
           </div>
