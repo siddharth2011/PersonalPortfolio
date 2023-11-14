@@ -71,16 +71,18 @@ const Hero = () => {
             <div>
             <SkillBox
               // logo={<SiPython />}
-              size = {"small"}
+              
               black={"white"}
               white={"black"}
               skill={"Python"}
+              size = {"small"}
             />
             <SkillBox
               // logo={<GrCode />}
               black={"black"}
               white={"white"}
               skill={"C++"}
+              size = {"small"}
             />
             </div>
             
