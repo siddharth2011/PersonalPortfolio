@@ -72,6 +72,7 @@ const Contact = () => {
               type="submit"
             >
               <span>Send</span>
+              <br />
               <RiSendPlaneFill/>
             </button>
           </form>
