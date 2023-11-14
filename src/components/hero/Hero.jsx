@@ -57,14 +57,21 @@ const Hero = () => {
               className="text-yellow-500 text-4xl font-bold sm:text-3xl"
             />
 
-            </div>
-            
-            <p
+              <p
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
               Graduate Student pursuing Masters in Computer Science from Arizona State University
             </p>
+
+            </div>
+            
+            {/* <p
+              // data-aos="fade-up"
+              className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
+            >
+              Graduate Student pursuing Masters in Computer Science from Arizona State University
+            </p> */}
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
             <a
