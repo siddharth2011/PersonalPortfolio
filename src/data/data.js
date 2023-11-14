@@ -5,15 +5,15 @@ export const data = [
     id: 1,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
     title: "NLP Model Benchmarking",
-    link: "",
-    git: "",
+    link: "https://arxiv.org/abs/2210.07471",
+    git: "https://github.com/siddharth2011/FeasibleQA.git",
   },
   {
     id: 2,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
     title: "InstructABSA",
-    link: "",
-    git: "",
+    link: "https://aclanthology.org/2023.eacl-main.30/",
+    git: "https://github.com/kevinscaria/InstructABSA.git",
   },
   {
     id: 3,
@@ -38,7 +38,7 @@ export const data = [
     title: "TheUrbanSpoon",
     desc: "",
     link: "",
-    git: "",
+    git: "https://github.com/siddharth2011/Urban-spoon.git",
   }
   
  
