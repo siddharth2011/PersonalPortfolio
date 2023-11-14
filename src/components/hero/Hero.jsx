@@ -23,7 +23,7 @@ const Hero = () => {
           <div class="pt-4 className='h-[50%] w-full object-cover md:h-[55%] md:m-auto sm:m-0'" data-aos="fade-up">
           <img
               data-aos="fade-up"
-              className="h-[50%] object-cover md:h-[55%] md:m-auto sm:m-0"
+              className="h-[50%]  md:h-[55%] md:m-auto sm:m-0"
               style={{ maxWidth: '50%', height: '50%' }}
               src='https://i.postimg.cc/DZ1ZZDt9/edit-1.jpg'
               alt="mine"
