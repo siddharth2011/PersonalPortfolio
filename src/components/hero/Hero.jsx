@@ -61,7 +61,7 @@ const Hero = () => {
 
               <p
               // data-aos="fade-up"
-              className=" text-3xl font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
+              className=" text-2xl font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
               Graduate Student pursuing Masters in Computer Science from Arizona State University
             </p>
