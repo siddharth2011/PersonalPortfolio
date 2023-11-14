@@ -2,7 +2,7 @@
 
 export const data = [
   {
-    id: 1,
+    id: 5,
     img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
     title: "TheUrbanSpoon",
     desc: "",
@@ -10,7 +10,7 @@ export const data = [
     git: "",
   },
   {
-    id: 2,
+    id: 4,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
     title: "EventRight",
     link: "",
@@ -25,14 +25,14 @@ export const data = [
     git: "",
   },
   {
-    id: 4,
+    id: 2,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
     title: "InstructABSA",
     link: "",
     git: "",
   },
   {
-    id: 5,
+    id: 1,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
     title: "NLP Model Benchmarking",
     link: "",
