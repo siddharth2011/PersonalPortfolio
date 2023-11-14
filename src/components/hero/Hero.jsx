@@ -87,7 +87,7 @@ const Hero = () => {
               size = {"small"}
             />
             </div>
-            
+            </div>
             </div>
             
            
