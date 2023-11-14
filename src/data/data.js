@@ -2,17 +2,16 @@
 
 export const data = [
   {
-    id: 5,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
-    title: "TheUrbanSpoon",
-    desc: "",
+    id: 1,
+    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
+    title: "NLP Model Benchmarking",
     link: "",
     git: "",
   },
   {
-    id: 4,
+    id: 2,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "EventRight",
+    title: "InstructABSA",
     link: "",
     git: "",
   },
@@ -25,18 +24,23 @@ export const data = [
     git: "",
   },
   {
-    id: 2,
+    id: 4,
     img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "InstructABSA",
+    title: "EventRight",
     link: "",
     git: "",
   },
+
+ 
   {
-    id: 1,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "NLP Model Benchmarking",
+    id: 5,
+    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
+    title: "TheUrbanSpoon",
+    desc: "",
     link: "",
     git: "",
-  },
+  }
+  
+ 
   
 ];
